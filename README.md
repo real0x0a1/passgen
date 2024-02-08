@@ -15,6 +15,11 @@
    make uninstall
 ```
 
+## Usage
+```bash
+   passgen <from-len> <to-len> [charset] [-t [FIXED]@@@@] [-s startblock] -o <output_file>
+```
+
 ## Author
 
 - Ali (Real0x0a1)
